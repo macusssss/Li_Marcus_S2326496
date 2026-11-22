@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Scottish Road Alerts</string>
+    <string name="details_title">Event details</string>
+
+    <string name="unplanned_button">Incidents</string>
+    <string name="roadworks_button">Roadworks</string>
+    <string name="refresh">Refresh</string>
+    <string name="show_map">Map</string>
+    <string name="show_list">List</string>
+    <string name="tap_for_details">tap for details</string>
+    <string name="search_hint">Road or place, e.g. M8</string>
+    <string name="any_date">Any date (tap to choose)</string>
+    <string name="on_date">Active on %1$s</string>
+    <string name="clear">Clear</string>
+    <string name="no_results">No events match your search</string>
+    <string name="acknowledgement">Contains Traffic Scotland data</string>
+
+    <string name="loading">Loading…</string>
+    <string name="parse_error">Could not read the data: %1$s</string>
+    <string name="source_file">File: %1$s</string>
+    <string name="data_set_label">Data set %1$d, published %2$s</string>
+    <string name="unknown_date">date unknown</string>
+    <string name="no_data_files">No data files found</string>
+    <string name="choose_data_set">Data set</string>
+
+    <string name="kind_unplanned">incidents</string>
+    <string name="kind_roadworks">roadworks</string>
+    <string name="kind_unplanned_single">Unplanned incident</string>
+    <string name="kind_roadworks_single">Roadworks</string>
+    <string name="count_all">%1$d %2$s</string>
+    <string name="count_filtered">Showing %1$d of %2$d %3$s</string>
+
+    <string name="urgent">Urgent</string>
+    <string name="from_date">From %1$s</string>
+    <string name="until_date">Until %1$s</string>
+    <string name="severity_high">High impact</string>
+    <string name="severity_medium">Moderate impact</string>
+    <string name="severity_low">Low impact</string>
+
+    <string name="label_feed">Type</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="label_start">Starts</string>
+    <string name="label_end">Ends</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_delays">Delays</string>
+    <string name="label_operational_lanes">Lanes open</string>
+    <string name="label_lanes_restricted">Lanes restricted</string>
+    <string name="label_urgent">Urgent roadworks</string>
+    <string name="label_probability">Probability</string>
+    <string name="label_coords_from">Start point</string>
+    <string name="label_coords_to">End point</string>
+    <string name="label_updated">Last updated</string>
+    <string name="label_reference">Reference</string>
+    <string name="label_category">Category</string>
+    <string name="label_distance">Distance</string>
+
+    <string name="distance_label">Distance from your location</string>
+    <string name="distance_any">Any distance</string>
+    <string name="distance_within">Within %1$d km</string>
+    <string name="within_km_you">within %1$d km of you</string>
+    <string name="within_km_fallback">within %1$d km of Glasgow city centre</string>
+    <string name="km_away">%1$.1f km away</string>
+    <string name="location_denied">Location permission not given, so distances are measured from Glasgow city centre.</string>
+    <string name="using_fallback">Your location isn\'t available or is outside Scotland, so distances are measured from Glasgow city centre.</string>
+    <string name="you_marker">You are here (approx.)</string>
+    <string name="fallback_marker">Glasgow city centre (default)</string>
+
+    <string name="type_closed">Road closed</string>
+    <string name="type_lanes">Lane restrictions</string>
+    <string name="type_queue">Queuing traffic</string>
+    <string name="type_roadworks">Roadworks</string>
+    <string name="type_other">Other incident</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

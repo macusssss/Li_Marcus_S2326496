@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="severity_high">#C62828</color>
+    <color name="severity_medium">#EF8F00</color>
+    <color name="severity_low">#2E7D32</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#33888888</color>
+</resources>
